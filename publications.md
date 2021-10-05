@@ -5,7 +5,7 @@ title: Publications
 
 I am currently working on a journal article based on my master's thesis, which would hopefully be my first academic article. The following are my theses and poster.
 
-(3) **Dong, Qiwei.**, Sombeck, Joseph., & Miller, L. E. (2021) **[Use of a markerless pose estimation method in the analysis of somatosensory cortical area 2 neural responses to 3D reaching movements.][hesis-Qiwei Dong-NU-NeuroBio-thesis-2021]** Northwestern University.
+(3) **Dong, Qiwei.**, Sombeck, Joseph., & Miller, L. E. (2021) **[Use of a markerless pose estimation method in the analysis of somatosensory cortical area 2 neural responses to 3D reaching movements.][Thesis-Qiwei Dong-NU-NeuroBio-thesis-2021]** Northwestern University.
 
 (2) **Dong, Qiwei.**, Ahmadi, Sia., & Leutgeb, Jill. (2019) **[Developing and Implementing a Closed-Loop Sharp Wave Ripple Detection and Stimulation Algorithm in the CA3 Hippocampal Subregion.]**[Thesis-QiweiDong-UCSD-COGS-honors-2019] University of California, San Diego.
 
