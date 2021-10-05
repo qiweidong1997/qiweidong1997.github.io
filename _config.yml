@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Qiwei Dong
 
 # Your name to show in the footer
-author: Some Person
+author: Qiwei Dong
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "https://qiweidong1997.github.io"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Publications: "publications"
+  Research Blog: "researchblog"
+  Contact Me: "contactme"
 
 # --- Logo --- #
 
