@@ -14,7 +14,7 @@ author: Qiwei Dong
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "https://qiweidong1997.github.io"
+  Home: "index"
   About Me: "aboutme"
   Publications: "publications"
   Research Blog: "researchblog"
