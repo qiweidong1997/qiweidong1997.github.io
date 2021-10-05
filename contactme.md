@@ -6,7 +6,8 @@ subtitle: Looking forward to discuss with you!
 
 ### Post
 
-Qiwei Dong  
+Qiwei Dong
+Lab Technician
 Miller Laboratory of Limb Motor Control  
 Northwestern University  
 303 E Chicago Ave  
