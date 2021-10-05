@@ -14,6 +14,7 @@ author: Qiwei Dong
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "index.html"
   About Me: "aboutme"
   Publications: "publications"
   Research Blog: "researchblog"
