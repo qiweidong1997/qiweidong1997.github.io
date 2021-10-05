@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact me
-subtitle: Looking forward to discuss and learn from you!
+subtitle: Looking forward to discuss with you!
 ---
 
 ### Post
@@ -21,4 +21,3 @@ dongqiweialexander@gmail.com
 
 mobile: +1 (858)699-3339
 
-_Looking forward to hearing from you!_
